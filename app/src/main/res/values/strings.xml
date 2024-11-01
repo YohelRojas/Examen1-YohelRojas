@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Test 1</string>
+    <string name="label_origin_person">Origin Person: </string>
+    <string name="label_destination_name">Destination Name: </string>
+    <string name="label_amount">Amount: </string>
+    <string name="label_date_time">Date: </string>
+
+    <!-- Button Texts -->
+    <string name="add_sinpe_transaction">Add SINPE Transaction</string>
+    <string name="view_sinpe_transactions">View SINPE Transactions</string>
+
+    <!-- Menu Items -->
+    <string name="save">Save</string>
+    <string name="remove">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="error_origin_person">Please enter the origin person.</string>
+    <string name="error_destination_name">Please enter the destination name.</string>
+    <string name="error_phone_number">Please enter a valid phone number.</string>
+    <string name="error_amount">Please enter a valid amount.</string>
+    <string name="error_description">Please enter a description.</string>
+    <string name="error_date_time">Please select a valid date.</string>
+    <string name="error_location">Please enter a location.</string>
+
+    <!-- Toast Messages -->
+    <string name="sinpe_duplicate">This SINPE transaction already exists.</string>
+    <string name="sinpe_saved">SINPE transaction saved successfully.</string>
+    <string name="sinpe_updated">SINPE transaction updated successfully.</string>
+    <string name="sinpe_deleted">SINPE transaction deleted successfully.</string>
+    <string name="sinpe_not_found">SINPE transaction not found.</string>
+    <string name="invalid_date_format">Invalid date format.</string>
+
+    <!-- Update Button Text -->
+    <string name="update_button_text">Update</string>
+
+    <!-- Miscellaneous -->
+    <string name="label_phone_number">Phone Number: </string>
+    <string name="label_description">Description: </string>
+    <string name="hint_origin_person">Origin Person</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="hint_destination_name">Destination Name</string>
+    <string name="hint_amount">Amount</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_date_time">Date</string>
+
+
+</resources>

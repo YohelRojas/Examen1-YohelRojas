@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnu_addSinpe"
+        android:title="@string/add_sinpe_transaction" />
+    <item
+        android:id="@+id/mnu_viewSinpeList"
+        android:title="@string/view_sinpe_transactions" />
+</menu>

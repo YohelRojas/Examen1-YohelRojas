@@ -1,0 +1,46 @@
+<!-- sin_list_item.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sin_list_item_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:elevation="2dp"
+    android:layout_margin="8dp">
+
+    <!-- Origin Person -->
+    <TextView
+        android:id="@+id/txt_origin_person"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_origin_person"
+        android:textStyle="bold"
+        android:textSize="16sp" />
+
+    <!-- Destination Name -->
+    <TextView
+        android:id="@+id/txt_destination_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_destination_name"
+        android:textSize="14sp"
+        android:layout_marginTop="4dp" />
+
+    <!-- Amount -->
+    <TextView
+        android:id="@+id/txt_amount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_amount"
+        android:textSize="14sp"
+        android:layout_marginTop="4dp" />
+
+    <!-- Date and Time -->
+    <TextView
+        android:id="@+id/txt_date_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_date_time"
+        android:textSize="14sp"
+        android:layout_marginTop="4dp" />
+</LinearLayout>

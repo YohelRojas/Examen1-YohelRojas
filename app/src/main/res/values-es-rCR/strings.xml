@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Examen I</string>
+    <string name="label_origin_person">Persona de Origen: </string>
+    <string name="label_destination_name">Nombre del Destinatario: </string>
+    <string name="label_amount">Monto: </string>
+    <string name="label_date_time">Fecha: </string>
+
+    <!-- Textos de los Botones -->
+    <string name="add_sinpe_transaction">Agregar transacción SINPE</string>
+    <string name="view_sinpe_transactions">Ver transacciones SINPE</string>
+
+    <!-- Elementos del Menú -->
+    <string name="save">Guardar</string>
+    <string name="remove">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+
+    <!-- Mensajes de Error -->
+    <string name="error_origin_person">Por favor, ingrese la persona de origen.</string>
+    <string name="error_destination_name">Por favor, ingrese el nombre del destinatario.</string>
+    <string name="error_phone_number">Por favor, ingrese un número de teléfono válido.</string>
+    <string name="error_amount">Por favor, ingrese un monto válido.</string>
+    <string name="error_description">Por favor, ingrese una descripción.</string>
+    <string name="error_date_time">Por favor, seleccione una fecha válida.</string>
+    <string name="error_location">Por favor, ingrese una ubicación.</string>
+
+    <!-- Mensajes Toast -->
+    <string name="sinpe_duplicate">Esta transacción SINPE ya existe.</string>
+    <string name="sinpe_saved">Transacción SINPE guardada exitosamente.</string>
+    <string name="sinpe_updated">Transacción SINPE actualizada exitosamente.</string>
+    <string name="sinpe_deleted">Transacción SINPE eliminada exitosamente.</string>
+    <string name="sinpe_not_found">Transacción SINPE no encontrada.</string>
+    <string name="invalid_date_format">Formato de fecha inválido.</string>
+
+    <!-- Texto del Botón de Actualización -->
+    <string name="update_button_text">Actualizar</string>
+
+    <!-- Misceláneos -->
+    <string name="label_phone_number">Número de Teléfono: </string>
+    <string name="label_description">Descripción: </string>
+    <string name="hint_origin_person">Persona de Origen</string>
+    <string name="hint_phone_number">Número de Teléfono</string>
+    <string name="hint_destination_name">Nombre del Destinatario</string>
+    <string name="hint_amount">Monto</string>
+    <string name="hint_description">Descripción</string>
+    <string name="hint_date_time">Fecha</string>
+</resources>
